@@ -1,4 +1,4 @@
-# A-star-algorithm
+# A-star-algorithm (Travel Agent)
 
 # Project Input:
      The user will enter the following query to 
